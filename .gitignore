@@ -1,0 +1,14 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/maak.db
+backend/uploads/
+.DS_Store
+backend/.env
+backend/*firebase*.json
+backend/serviceAccount*.json
+firebase-key.json
+.env

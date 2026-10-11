@@ -1,1 +1,0 @@
-﻿# Synapse Ma-ak
